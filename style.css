@@ -384,7 +384,7 @@ header {
   background-color: #706e6e;
   height: 1px;
 }
-@media (max-width: 980px) {
+@media (max-width: 680px) {
   .hero-section {
     flex-direction: column-reverse;
   }
